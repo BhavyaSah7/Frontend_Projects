@@ -1,0 +1,16 @@
+body {
+  background-color:Teal;
+  font-size:20px;
+  margin:auto;
+  text-align:center;
+}
+h1 {
+  font-size:50px;
+}
+form {
+  background:rgb(147,5,5,0.2);
+  border-radius:2rem;
+  padding:1.5rem 2.5rem;
+  width:500px;
+  margin:auto;
+}
